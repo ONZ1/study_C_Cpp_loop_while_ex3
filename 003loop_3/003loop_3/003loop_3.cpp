@@ -35,6 +35,6 @@ int main(void)
 		printf("\n");
 	}
 
-	fgetc(stdin);
 	return 0;
+	fgetc(stdin);
 }
